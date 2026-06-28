@@ -1,7 +1,7 @@
 /*
 ============================================================
 Project : Retail Sales Analysis – SQL & Excel
-Author  : Xinyue Zhang
+Author  : Victoria Zhang
 Database: PostgreSQL
 Dataset : Sample Superstore
 
