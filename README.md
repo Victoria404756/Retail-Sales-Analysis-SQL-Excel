@@ -34,6 +34,12 @@ This project uses SQL and Excel to answer these business questions and provide a
 
 ---
 
+## Report
+
+[View Executive Summary](report/Executive_Summary_SQL_Excel.pdf)
+
+---
+
 ## Tools Used
 
 * PostgreSQL
