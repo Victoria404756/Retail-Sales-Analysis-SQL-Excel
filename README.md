@@ -107,6 +107,7 @@ Retail-Sales-Analysis-SQL-Excel
 │   └── Excel_Report.png
 │
 ├── report
+│   └── Executive_Summary_SQL_Excel.pdf
 │
 ├── README.md
 └── LICENSE
