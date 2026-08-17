@@ -133,6 +133,9 @@ Retail-Sales-Analysis-SQL-Excel
 ├── access
 │   └── Retail_Operational_Performance.accdb
 │
+├── screenshot
+│   └── access_macro.png
+│
 ├── README.md
 └── LICENSE
 ```
