@@ -57,6 +57,10 @@ Extended the retail sales analysis into Microsoft Access to support reusable ope
 * pgAdmin 4
 * Microsoft Excel
 * GitHub
+* Microsoft Access
+* Access Queries
+* Reports
+* Basic Macros
 
 ---
 
