@@ -49,6 +49,7 @@ Extended the retail sales analysis into Microsoft Access to support reusable ope
 - Created a regional sales and profitability report based on query outputs
 - Built a basic macro to automate report opening and preview
 
+![Access Macro](images/access_macro.png)
 ---
 
 ## Tools Used
