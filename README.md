@@ -40,6 +40,17 @@ This project uses SQL and Excel to answer these business questions and provide a
 
 ---
 
+## Microsoft Access Extension
+
+Extended the retail sales analysis into Microsoft Access to support reusable operational reporting.
+
+- Imported 9,994 retail transaction records
+- Built 4 reusable queries for regional performance, loss-making products, category profitability, and monthly trends
+- Created a regional sales and profitability report based on query outputs
+- Built a basic macro to automate report opening and preview
+
+---
+
 ## Tools Used
 
 * PostgreSQL
@@ -114,6 +125,9 @@ Retail-Sales-Analysis-SQL-Excel
 │
 ├── report
 │   └── Executive_Summary_SQL_Excel.pdf
+│
+├── access
+│   └── Retail_Operational_Performance.accdb
 │
 ├── README.md
 └── LICENSE
